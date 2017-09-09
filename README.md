@@ -14,6 +14,14 @@ Admin:
 - View Users Data
 - Graphical Chart View
 
+Used Stack:
+
+- bootstrap 3.0.0
+- EntityFramework 6.1.3
+- jQuery 1.10.2
+- Mvc 5.2.3
+- Razor Syntax 3.2.3
+- Json 6.0.4
 
 Overview
 ===========================
